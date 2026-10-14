@@ -25,8 +25,11 @@ An unmanned surface vehicle (USV) prototype built from an RC marine platform. It
 ### Toolbox
 
 **Identity & systems:** Active Directory · Group Policy · Microsoft Entra ID · Windows Server · Linux (RHEL/Ubuntu) · VMware vSphere · Hyper-V
+
 **Networking & security:** Cisco · VLANs · Palo Alto NGFW · VPN with MFA · WAF · Wireshark
+
 **Monitoring:** Zabbix · Grafana · Microsoft Sentinel · Splunk
+
 **Automation:** PowerShell · Python · Bash · n8n
 
 ### Credentials
